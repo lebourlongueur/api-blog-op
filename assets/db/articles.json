@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "subtitle": "News",
+    "subtitleimage": "/img/icon.png",
+    "title": "Les dernières nouvelles sur One Piece",
+    "text": "L'univers de One Piece est en effervescence alors que de nouvelles révélations se font jour. Récemment, Oda-sensei a annoncé que le manga atteindra bientôt son climax. Les fans du monde entier sont impatients de découvrir ce que l'avenir réserve à Luffy et à son équipage, ainsi que les secrets bien gardés de ce monde fascinant. Les spéculations vont bon train, avec des théories sur l'emplacement du One Piece, l'identité de Joyboy, et la véritable puissance du Gouvernement Mondial.",
+    "author": "Monkey D. Luffy",
+    "image": "/img/images.jpg",
+    "date": "2023-09-25"
+  },
+  {
+    "id": 2,
+    "subtitle": "Théorie",
+    "subtitleimage": "/img/icon1.png",
+    "title": "Le mystère du siècle manquant",
+    "text": "Les fans de One Piece sont familiers avec le concept du 'siècle manquant', une période d'histoire mystérieusement effacée de l'histoire commune. Certains pensent que le One Piece est lié à cet événement énigmatique. Dans cette théorie, nous explorerons les indices cachés dans le manga et les déclarations de l'auteur Eiichiro Oda. Pourrait-il y avoir un lien entre le siècle manquant, le Void Century, et le One Piece ? Les réponses pourraient bien se cacher sous nos yeux depuis le début !",
+    "author": "Nico Robin",
+    "image": "/img/one_piece.jpg",
+    "date": "2023-09-26"
+  },
+  {
+    "id": 3,
+    "subtitle": "News",
+    "subtitleimage": "/img/icon.png",
+    "title": "Le retour de Barbe Blanche : Révélations sur les Rox Pirates",
+    "text": "Une information sensationnelle secoue le monde des pirates : Barbe Blanche serait-il de retour ? Des rapports indiquent que des membres présumés morts de l'équipage de Barbe Blanche sont apparus avec une puissance renouvelée. Certains spéculent que les Rox Pirates, une puissante équipe de pirates du passé, pourrait être impliquée. Cette mystérieuse alliance pourrait-elle menacer l'équilibre du Nouveau Monde ? Les réponses à ces questions promettent des aventures palpitantes à venir !",
+    "author": "Marco le Phénix",
+    "image": "/img/article3.jpg",
+    "date": "2023-09-27"
+  },
+  {
+    "id": 4,
+    "subtitle": "Théorie",
+    "subtitleimage": "/img/icon1.png",
+    "title": "Le mystère du D. dans One Piece",
+    "text": "Le 'D.' est l'une des énigmes les plus intrigantes de One Piece. De nombreux personnages importants dans la série, y compris Luffy et Gol D. Roger, portent ce mystérieux 'D.' dans leur nom. Dans cette théorie, nous examinerons les différentes pistes laissées par Oda-sensei sur la signification de ce D. et son importance dans l'histoire de One Piece. Est-ce un héritage maudit ou un espoir pour l'avenir ? Préparez-vous à plonger dans les profondeurs de l'histoire !",
+    "author": "Trafalgar Law",
+    "image": "/img/article4.jpg",
+    "date": "2023-09-28"
+  },
+  {
+    "id": 5,
+    "subtitle": "News",
+    "subtitleimage": "/img/icon.png",
+    "title": "Les secrets du siècle manquant enfin révélés ?",
+    "text": "Des fuites d'informations suggèrent que de nouvelles découvertes sur le siècle manquant pourraient éclater au grand jour. Des archéologues et des pirates du monde entier convergent vers un lieu mystérieux pour en savoir plus sur ce qui s'est réellement passé pendant cette période oubliée. Les énigmes du Poneglyphs, du Gouvernement Mondial, et du mystérieux Joyboy pourraient-elles enfin être résolues ? Le monde de One Piece ne sera plus jamais le même !",
+    "author": "Nico Robin",
+    "image": "/img/article5.png",
+    "date": "2023-09-29"
+  },
+  {
+    "id": 6,
+    "subtitle": "Théorie",
+    "subtitleimage": "/img/icon1.png",
+    "title": "La véritable identité de Im-sama",
+    "text": "Im-sama, le mystérieux dirigeant du Gouvernement Mondial, reste l'un des personnages les plus énigmatiques de One Piece. Dans cette théorie, nous explorerons les indices semés tout au long de la série et les théories populaires sur l'identité et les motivations de ce personnage puissant. Certains disent qu'Im-sama détient le secret ultime du monde, tandis que d'autres voient en lui un danger pour tout ce que Luffy et ses alliés ont accompli. Découvrez les vérités cachées derrière le trône vacant !",
+    "author": "Monkey D. Dragon",
+    "image": "/img/article6.jpg",
+    "date": "2023-09-30"
+  }
+]
